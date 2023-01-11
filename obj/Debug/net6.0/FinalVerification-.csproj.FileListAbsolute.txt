@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\bin\Debug\net6.0\FinalVerification-.exe
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\bin\Debug\net6.0\FinalVerification-.deps.json
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\bin\Debug\net6.0\FinalVerification-.runtimeconfig.json
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\bin\Debug\net6.0\FinalVerification-.dll
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\bin\Debug\net6.0\FinalVerification-.pdb
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\obj\Debug\net6.0\FinalVerification-.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\obj\Debug\net6.0\FinalVerification-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\obj\Debug\net6.0\FinalVerification-.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\obj\Debug\net6.0\FinalVerification-.AssemblyInfo.cs
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\obj\Debug\net6.0\FinalVerification-.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\obj\Debug\net6.0\FinalVerification-.dll
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\obj\Debug\net6.0\refint\FinalVerification-.dll
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\obj\Debug\net6.0\FinalVerification-.pdb
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\obj\Debug\net6.0\FinalVerification-.genruntimeconfig.cache
+C:\Users\user\Desktop\DA\Новая папка\FinalVerification-\obj\Debug\net6.0\ref\FinalVerification-.dll
